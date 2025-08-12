@@ -3,7 +3,7 @@ Algoritmo "dardo"
 Var
    d1, d2, d3, maior : real
 Inicio
-   escreval("Digite a maior distância:")
+   escreval("Digite as tres distancias:")
    leia(d1)
    leia(d2)
    leia(d3)
