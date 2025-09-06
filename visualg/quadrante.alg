@@ -1,7 +1,7 @@
 Algoritmo "quadrante"
 
 Var
-   x, y : inteiro
+   x, y : real
 
 Inicio
    escreval("Digite os valores das coordenadas X e Y:")
