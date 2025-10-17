@@ -20,7 +20,7 @@ Inicio
    escreval("DIAGONAL PRINCIPAL:")
    para i de 0 ate n-1 faca
       para j de 0 ate n-1 faca
-         escreva(mat[i, j], " ")
+         escreva(mat[i, i], " ")
       fimpara
    fimpara
 
